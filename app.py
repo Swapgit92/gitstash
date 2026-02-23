@@ -2,10 +2,11 @@
 <html>
 <body>
 
-<h1 style="color:blue;">A Green Heading</h1>
+<h1 style="color:blue;">A peach Heading</h1>
 
-<p style="color:red;">A Yellow Heading.</p>
+<p style="color:red;">A pink Heading.</p>
 
 </body>
 </html>
+
 
