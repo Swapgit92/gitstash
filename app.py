@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1 style="color:blue;">A Red Heading</h1>
+<h1 style="color:green;">A green Heading</h1>
 
-<p style="color:red;">A orange Heading.</p>
+<p style="color:blue;">A blue Heading.</p>
 
 </body>
 </html>
